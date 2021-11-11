@@ -1,0 +1,24 @@
+{
+  "name": "fuzzy-formulas",
+  "version": "1.0.0",
+  "description": "Common formulas that you may have learned way back when but forgot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/jaewhicha/fuzzy-formulas.git",
+  "author": "Jay W. <jaewhicha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaewhicha/fuzzy-formulas/issues"
+  },
+  "homepage": "https://github.com/jaewhicha/fuzzy-formulas#readme",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.3.1"
+  },
+  "dependencies": {
+  }
+}
