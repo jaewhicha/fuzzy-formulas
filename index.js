@@ -1,5 +1,7 @@
-import average from "./src/algebra/average/average";
+import Average from "./src/algebra/average/average";
+import Probability from "./src/algebra/probability/probability";
 
 module.exports = {
-    getAverage: average
+    getAverage: Average,
+    getProbability: Probability
 }
